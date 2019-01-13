@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lomenu UI/Scenes/video player.unity
+  isLoaded: 1
+  isActive: 1
